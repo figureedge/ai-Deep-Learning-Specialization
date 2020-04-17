@@ -1,5 +1,6 @@
 # ignore dataset 
 *.zip
+tmp/
 
 # trained net file 
 /ResNet50.h5
