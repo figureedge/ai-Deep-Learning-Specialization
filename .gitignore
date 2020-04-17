@@ -1,7 +1,6 @@
 # ignore dataset 
 *.zip
 /tmp
-*/tmp
 
 
 # trained net file 
