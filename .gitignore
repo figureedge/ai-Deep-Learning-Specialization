@@ -1,0 +1,7 @@
+# ignore dataset 
+*.zip
+
+# trained net file 
+/ResNet50.h5
+*/ResNet50.h5 
+**/ResNet50.h5
